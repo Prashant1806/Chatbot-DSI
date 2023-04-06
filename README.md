@@ -14,6 +14,7 @@ Select the folder containing the downloaded or cloned repository.
 The Stock Market Research Bot Chrome Extension is now installed and ready to use.
 
 **Usage**
+
 To use the Stock Market Research Bot Chrome Extension, follow these steps:
 
 Click on the extension icon in the top right corner of the browser.
@@ -22,4 +23,5 @@ The extension will fetch the data from the Alpha Vantage API and display it on t
 Please note that the accuracy and reliability of the stock data may vary depending on the source and the quality of the data. Therefore, it's important to do your own research and analysis before making any investment decisions.
 
 **Credits**
+
 The Stock Market Research Bot Chrome Extension was created by Prashant1806 using the Alpha Vantage API
