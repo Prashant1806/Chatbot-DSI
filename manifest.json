@@ -1,0 +1,12 @@
+{
+  "name": "Stock Market Research Bot",
+  "version": "1.0",
+  "description": "Get real-time Indian stock market research and top dividend-paying stocks.",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}

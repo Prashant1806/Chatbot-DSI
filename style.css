@@ -1,0 +1,44 @@
+body {
+    background-color: #f1f1f1;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 400px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #aaa;
+}
+
+h1 {
+    text-align: center;
+    color: #008CBA;
+}
+
+.form {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+button {
+    background-color: #008CBA;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.output {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.risk {
+    text-align: center;
+    font-size: 12px;
+    color: #777;
+}
